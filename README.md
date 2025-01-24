@@ -12,5 +12,3 @@
 You can always find me here:
 * 📧 [moath.alkhelifi@gmail.com](mailto:moath.alkhelifi@gmail.com)
 * 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/moath-alkhelifi-7286461b0/)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmoath0&" alt="devmoath0" /></p>
